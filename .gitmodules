@@ -4,3 +4,6 @@
 [submodule "ebbb343cd744da9d6d6d6ded2e1557fd"]
 	path = ebbb343cd744da9d6d6d6ded2e1557fd
 	url = https://gist.github.com/matlabbe/ebbb343cd744da9d6d6d6ded2e1557fd
+[submodule "frtl_2025_ws"]
+	path = frtl_2025_ws
+	url = https://github.com/Equipe-eVTOL-ITA/frtl_2025_ws
