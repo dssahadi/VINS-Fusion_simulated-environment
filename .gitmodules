@@ -1,3 +1,6 @@
 [submodule "VINS-Fusion-ROS2"]
 	path = VINS-Fusion-ROS2
 	url = https://github.com/zinuok/VINS-Fusion-ROS2
+[submodule "ebbb343cd744da9d6d6d6ded2e1557fd"]
+	path = ebbb343cd744da9d6d6d6ded2e1557fd
+	url = https://gist.github.com/matlabbe/ebbb343cd744da9d6d6d6ded2e1557fd
