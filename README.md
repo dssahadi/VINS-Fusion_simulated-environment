@@ -45,4 +45,4 @@ Por fim:
 ros2 launch cbr_fase1 simulation.launch.py
 ``` 
 
-OBS: foi testado no dia 09/02/2026 e funcionou, entretanto cabe ressaltar que por algum motivo o ORB_SLAM3 ficava forçando seu fechamento, além disso a angulação da câmera dentro da simulação não é favorável aos testes e talvez seja necessário utilizar outra fase para melhor teste.
+OBS: foi testado no dia 12/03/2026 e funcionou, entretanto cabe ressaltar que a angulação da câmera dentro da simulação não é favorável aos testes e talvez seja necessário utilizar outra fase para melhor teste.
