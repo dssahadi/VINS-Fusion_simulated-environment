@@ -4,7 +4,7 @@
 
 2. Faça as alterações propostas na segunda pasta para utilizar o VINS-FUSION como uma biblioteca externa para projetos utilizando ros2 Humble no Ubuntu 22.04 e depois faça build.
 
-3. Segue os passos da segunda pasta para clonar e buildar o ambiente da simulação.
+3. Segue os passos da terceira pasta para clonar e buildar o ambiente da simulação.
 
 4. Mova as pastas dentro de src/ para a pasta src/ dentro da frtl_2025_ws.
 
