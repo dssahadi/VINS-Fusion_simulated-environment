@@ -19,7 +19,7 @@ Em todos os terminais:
 source /opt/ros/humble/setup.bash
 source install/setup.bash
 source ~/vins_ws/install/setup.bash
-``
+```
 
 Em um terminal:
 
