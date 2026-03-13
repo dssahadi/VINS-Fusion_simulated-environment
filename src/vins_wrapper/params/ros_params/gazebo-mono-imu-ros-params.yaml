@@ -1,0 +1,19 @@
+/**:
+  ros__parameters:
+    use_sim_time: true
+
+    imu_topic: "/imu0"
+    
+    # Redundância para garantir que ele encontre a câmera
+    image_topic: "/camera/image_raw"
+    image0_topic: "/camera/image_raw"
+    
+    # Tópicos dummy para evitar crash de lógica estéreo ou interna
+    image1_topic: "/dummy_cam1"
+    feature_topic: "/feature_tracker/feature"
+    extrinsic_topic: "/vins/extrinsic"
+
+    odometry_topic: "/vins/odometry"
+    path_topic: "/vins/path"
+    point_cloud_topic: "/vins/point_cloud"
+    keyframe_pose_topic: "/vins/keyframe_pose"
