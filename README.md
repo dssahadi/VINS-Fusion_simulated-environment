@@ -11,7 +11,7 @@
 ```bash
 colcon build
 ```
-4. Para testar: Run Task -> simulate -> fase1_25. Depois: Run Task -> agent.
+5. Para testar: Run Task -> simulate -> fase1_25. Depois: Run Task -> agent.
 
 Em todos os terminais:
 
